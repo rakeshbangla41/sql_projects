@@ -1,7 +1,8 @@
 # Website Analytics
 
 
-![web_analytics_img](https://github.com/user-attachments/assets/4012c1a9-29f1-4ec6-aec6-861a4b6a972f)
+![web_analytics](https://github.com/user-attachments/assets/de7e400a-9fbf-4e79-b0ce-0283646d7368)
+
 
 
 ## Dataset Overview and Problem Statement:
