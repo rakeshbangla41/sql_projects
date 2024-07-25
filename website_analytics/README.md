@@ -66,10 +66,12 @@ ORDER BY page_views_percentage DESC;
 
 **Answer:**
 
-![a2_1](https://github.com/user-attachments/assets/3c68cee9-1fa1-403b-9782-dce53a35b697)
+![a2_1](https://github.com/user-attachments/assets/e941a137-8d6c-498f-94ec-1a817ea48c33)
 
 
-![a2_2](https://github.com/user-attachments/assets/d0d3dbed-43bc-4fda-9a4b-eac96507a6ee)
+
+![a2_2](https://github.com/user-attachments/assets/218d34b1-fe36-46ae-b03b-4c1e91d917d6)
+
 
 
 ***Out of 4 channels, Organic search and PPC constitute to almost 75% of total page views***
@@ -87,10 +89,12 @@ ORDER BY total_sessions DESC;
 
 **Answer:**
 
-![a3_1](https://github.com/user-attachments/assets/b03490b1-b38f-4b95-9e7e-e3e046ac1fd3)
+![a3_1](https://github.com/user-attachments/assets/ffc6a2f3-d955-490b-8d58-b8035151a057)
 
 
-![a3_2](https://github.com/user-attachments/assets/ff87fed2-0ae1-49d2-979a-cf84bb2de0ec)
+
+![a3_2](https://github.com/user-attachments/assets/47d2dad0-d310-4ee6-9afc-765e835f77f0)
+
 
 
 ***Users have spent more number of sessions on the following device-browser combination: Mobile-Chrome being the most popular choice, followed by Desktop-Firefox, Desktop-Chrome, and Mobile-Safari***
@@ -116,9 +120,11 @@ ORDER BY total_revenue_percentage DESC;
 
 **Answer:**
 
-![a4_1](https://github.com/user-attachments/assets/ee9cef50-6685-47bb-96e8-738e752c7c2f)
+![a4_1](https://github.com/user-attachments/assets/fcc93c94-03ef-4ee4-93a2-dab7903b0b9d)
 
-![a4_2](https://github.com/user-attachments/assets/28693f95-2e49-4557-aea7-835786c63a2b)
+
+![a4_2](https://github.com/user-attachments/assets/465448b6-5541-4da3-8f6d-c1d206aa3aa9)
+
 
 
 ***Mobile device generated the highest revenue which constitutes to around 46% of the total revenue***
@@ -142,9 +148,10 @@ ORDER BY total_revenue_percentage DESC;
 
 **Answer:**
 
-![a5_1](https://github.com/user-attachments/assets/6e970e1f-4a06-4063-bf35-8f1d31bd8e82)
+![a5_1](https://github.com/user-attachments/assets/c01453f5-46f7-4869-a7b8-2f5135ef1f6b)
 
-![a5_2](https://github.com/user-attachments/assets/1fc48479-a3a8-43bc-8ece-5eec4d257135)
+![a5_2](https://github.com/user-attachments/assets/1143a57e-001d-41f5-865d-6d4829c97c74)
+
 
 
 ***Organic search is by far the most popular and profitable marketing channel of all the channels. It generated a massive 63.5% of total revenue alone***
@@ -169,9 +176,10 @@ FROM product_category_quantity_revenue;
 
 **Answer:**
 
-![a6_1](https://github.com/user-attachments/assets/cf25d831-c4b1-43d2-b927-417976561ff0)
+![a6_1](https://github.com/user-attachments/assets/9e9aa141-05b9-40b1-add1-b010ea10b9a9)
 
-![a6_2](https://github.com/user-attachments/assets/5b4ca072-9900-4495-be52-a455d53f0300)
+
+![a6_2](https://github.com/user-attachments/assets/e41ea91a-81c2-4612-89f1-0841c2db6ad1)
 
 
 ***Product categories – ‘Casual’ and ‘Semi Formal’ generated most of the revenue for both the  years***
@@ -193,9 +201,10 @@ LIMIT 7;
 
 **Answer:**
 
-![a7_1](https://github.com/user-attachments/assets/3f3623b2-27a7-4c66-882d-08cdc9ff7046)
+![a7_1](https://github.com/user-attachments/assets/41c6461d-af76-4ad4-8a71-99a96237aea5)
 
-![a7_2](https://github.com/user-attachments/assets/4266eb6c-f637-45b1-923b-6e532a9c7ed4)
+
+![a7_2](https://github.com/user-attachments/assets/da9c25c7-af58-4f77-92cb-ef7599593701)
 
 
 ***In 2019, the last quarter (months 10, 11, 12) have attracted most number of new users  - may be because of the year end sale and offers***
@@ -224,9 +233,11 @@ ORDER BY total_page_views DESC;
 
 **Answer:**
 
-![a8_1](https://github.com/user-attachments/assets/7366ad32-4491-4c45-b814-1beea905ef94)
+![a8_1](https://github.com/user-attachments/assets/52fa058e-9b34-4aa9-be9b-8ed80db0acdf)
 
-![a8_2](https://github.com/user-attachments/assets/65fb4eb8-e7dc-4f44-8f31-cea799168066)
+
+![a8_2](https://github.com/user-attachments/assets/81bf9110-9b27-40c3-9520-4ba37506a41c)
+
 
 
 ***Mobile-Chrome is the most popular device-browser combination, followed by Desktop-Firefox***
@@ -253,9 +264,11 @@ WHERE rnk  = 1;
 
 **Answer:**
 
-![a9_1](https://github.com/user-attachments/assets/84492c20-0742-4134-a72d-fa009d06a95e)
+![a9_1](https://github.com/user-attachments/assets/8f775c19-9d58-4eb0-ac6a-95ffa4599df1)
 
-![a9_2](https://github.com/user-attachments/assets/7f2ff1fe-74a1-4d83-97fa-d9470e6054f7)
+
+![a9_2](https://github.com/user-attachments/assets/03a86bd8-3ac4-4887-85aa-b6a13da3d395)
+
 
 
 ***In both the years, T-Shirt is the least selling product category***
@@ -275,9 +288,11 @@ LIMIT 3;
 
 **Answer:**
 
-![a10_1](https://github.com/user-attachments/assets/935799b1-38a9-46da-a2e9-385486a97272)
+![a10_1](https://github.com/user-attachments/assets/71612615-64c7-4d6b-a620-13677e8084a1)
 
-![a10_2](https://github.com/user-attachments/assets/85fbb67a-f93d-48f0-a011-ec26fd5aeac8)
+
+![a10_2](https://github.com/user-attachments/assets/48c24a21-3e0d-41d3-a43a-f045ca5d771e)
+
 
 
 ***In the year 2020, T-Shirt product category has the highest bounce rate with 63%. This is a major issue of concern, since the sales generated from the T-Shirt category are also very less***
