@@ -38,9 +38,11 @@ LIMIT 3;
 
 **Answer:**
 
-![a1_1](https://github.com/user-attachments/assets/a937f2dc-77c8-4b66-8997-4816e21cb332)
+![a1_1](https://github.com/user-attachments/assets/df4203d6-dd52-44a5-b1ca-61a68ce01a72)
 
-![a1_2](https://github.com/user-attachments/assets/c00d7c51-24e3-41d5-a9ea-b56aabfde6e9)
+
+![a1_2](https://github.com/user-attachments/assets/7786eb0f-9005-426d-b38a-75b11e99b3b1)
+
 
 
 ***Casual, Semi Formal, and Formal are the most popular product categories with higher quantities sold and revenue generated***
