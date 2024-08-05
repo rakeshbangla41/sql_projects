@@ -21,7 +21,7 @@ As a Data Analyst, I have been given a set of questions which would help in unde
 
 ## Questions and Solutions:
 
-##### Note: I have taken the screenshot of each answer from PostgreSQL's pgAdmin platform and attached the same here under Answer section.
+##### Note: I have taken the screenshot of each SQL query from PostgreSQL's pgAdmin platform and attached the same here under Answer section. I cannot display the output/results since it is confidential data.
 
 
 **Q1. What are the most popular top 3 product categories in terms of i) quantity sold and ii) revenue?**
